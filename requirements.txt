@@ -1,0 +1,7 @@
+langchain
+huggingface
+langchain-community
+pandas
+langchain_huggingface
+pyPDF
+sentence-transformers
