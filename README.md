@@ -1,4 +1,4 @@
-Intelligent Document Query Assistant powered by RAG Architecture
+## **Intelligent Document Query Assistant powered by RAG Architecture.**
 transform your large static PDF documents into an interactive knowledge base. Ask questions and get intelligent,
 context-aware answers extracted directly from your documents using advanced AI technology.
 
